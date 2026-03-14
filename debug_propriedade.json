@@ -1,0 +1,205 @@
+{
+  "prop_id": 80277672908070,
+  "full_address": "4527 30TH ST NW",
+  "centerlat": "38.948981381946716",
+  "centerlng": "-77.061350635587402",
+  "boundaries": "{\"type\":\"Polygon\",\"coordinates\":[[[-77.061557682793335,38.949103114141927],[-77.061556943486565,38.948860300357389],[-77.061142321390577,38.948857791928411],[-77.061148259965336,38.949105340785621],[-77.061557682793335,38.949103114141927]]]}",
+  "area": 108,
+  "status": "For sale",
+  "locked_until": null,
+  "locked_user_id": null,
+  "transaction_id": "588f74fd729df5bc8bdd601be0360131577e99173a37f5c4733784b08ad22779",
+  "last_transaction_id": "588f74fd729df5bc8bdd601be0360131577e99173a37f5c4733784b08ad22779",
+  "last_purchased_price": 57024,
+  "terminal_id": null,
+  "feature": null,
+  "labels": {
+    "fsa_allow": false,
+    "exclusive_model_placement": null
+  },
+  "on_market": {
+    "token": "999999.00 UPX",
+    "fiat": "0.00 FIAT",
+    "allow_fiat_offers": false,
+    "allow_token_offers": true,
+    "allow_prop_offers": true,
+    "currency": "UPX"
+  },
+  "offers_made_by_you": null,
+  "offers_with_property": null,
+  "offers_to_property": null,
+  "fiat_price": null,
+  "is_offering": false,
+  "is_blocked": false,
+  "owner": "iidjokznyfc2",
+  "owner_username": "toroplayer",
+  "yield_per_hour": 0.32339997187257,
+  "price": 999999,
+  "can_make_offer": true,
+  "collection_boost": 1,
+  "street": {
+    "id": 132538,
+    "name": "30TH"
+  },
+  "city": {
+    "id": 85,
+    "name": "Washington",
+    "metropolisId": null
+  },
+  "teleport_price": 20,
+  "buyer_transaction_fee": 0.05,
+  "seller_transaction_fee": 0.05,
+  "is_construction_forbidden": false,
+  "ownership_changed_at": "2024-07-20T20:09:36.625Z",
+  "customization": {},
+  "show_market_captcha": true,
+  "building": {
+    "propModelID": 2176150,
+    "propertyID": 80277672908070,
+    "nftID": 6720318,
+    "lat": "38.94894902191159",
+    "lng": "-77.06124942390029",
+    "polygon": [
+      [
+        -8.28648,
+        -8.92986
+      ],
+      [
+        -8.28648,
+        8.90412
+      ],
+      [
+        8.29221,
+        8.90412
+      ],
+      [
+        8.29221,
+        -8.92986
+      ],
+      [
+        -8.28648,
+        -8.92986
+      ]
+    ],
+    "scale": 1,
+    "rotate": [
+      1.5707963267948966,
+      -0.009965688965942132,
+      0
+    ],
+    "constructionStatus": "completed",
+    "buildingImage": "apartment_new/apartment_baked.png",
+    "buildingName": "Apartment Building",
+    "buildingType": "residential",
+    "modelId": 30,
+    "residents": 3,
+    "details": {
+      "stepSparks": 10,
+      "minStackedSparks": 400,
+      "maxStackedSparks": 90000
+    },
+    "construction": null
+  },
+  "buildings": [
+    {
+      "propModelID": 2176150,
+      "propertyID": 80277672908070,
+      "nftID": 6720318,
+      "lat": "38.94894902191159",
+      "lng": "-77.06124942390029",
+      "polygon": [
+        [
+          -8.28648,
+          -8.92986
+        ],
+        [
+          -8.28648,
+          8.90412
+        ],
+        [
+          8.29221,
+          8.90412
+        ],
+        [
+          8.29221,
+          -8.92986
+        ],
+        [
+          -8.28648,
+          -8.92986
+        ]
+      ],
+      "scale": 1,
+      "rotate": [
+        1.5707963267948966,
+        -0.009965688965942132,
+        0
+      ],
+      "constructionStatus": "completed",
+      "buildingImage": "apartment_new/apartment_baked.png",
+      "buildingName": "Apartment Building",
+      "buildingType": "residential",
+      "modelId": 30,
+      "residents": 3,
+      "details": {
+        "stepSparks": 10,
+        "minStackedSparks": 400,
+        "maxStackedSparks": 90000
+      },
+      "construction": null
+    },
+    {
+      "propModelID": 2176147,
+      "propertyID": 80277672908070,
+      "nftID": 6720316,
+      "lat": "38.94898397578012",
+      "lng": "-77.06146174800215",
+      "polygon": [
+        [
+          -12.95488,
+          -8.01949
+        ],
+        [
+          -12.95488,
+          7.90801
+        ],
+        [
+          13.19065,
+          7.90801
+        ],
+        [
+          13.19065,
+          -8.01949
+        ],
+        [
+          -12.95488,
+          -8.01949
+        ]
+      ],
+      "scale": 1,
+      "rotate": [
+        1.5707963267948966,
+        -1.56878344104892,
+        0
+      ],
+      "constructionStatus": "completed",
+      "buildingImage": "service_structures/day_care/ipfs_daycare.png",
+      "buildingName": "Day Care Center",
+      "buildingType": "service",
+      "modelId": 16145,
+      "residents": 0,
+      "details": {
+        "stepSparks": 100,
+        "minStackedSparks": 290,
+        "maxStackedSparks": 45000
+      },
+      "construction": null
+    }
+  ],
+  "is_owner_in_jail": false,
+  "state": {
+    "id": 22,
+    "name": "D.C."
+  },
+  "addressWithCityAndState": "4527 30TH ST NW, Washington, D.C."
+}

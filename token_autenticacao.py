@@ -1,0 +1,1 @@
+SECRET_KEY = "meu toke de autenticacao aqui"

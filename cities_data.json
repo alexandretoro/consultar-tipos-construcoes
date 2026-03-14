@@ -1,0 +1,338 @@
+[
+  {
+    "id": 72,
+    "name": "South Lake Tahoe",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 46,
+    "name": "Stockton",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 5,
+    "name": "Fresno",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 1,
+    "name": "San Francisco",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 8,
+    "name": "Staten Island",
+    "stateName": "NY",
+    "countryName": "US"
+  },
+  {
+    "id": 3,
+    "name": "Manhattan",
+    "stateName": "NY",
+    "countryName": "US"
+  },
+  {
+    "id": 4,
+    "name": "Queens",
+    "stateName": "NY",
+    "countryName": "US"
+  },
+  {
+    "id": 6,
+    "name": "Brooklyn",
+    "stateName": "NY",
+    "countryName": "US"
+  },
+  {
+    "id": 92,
+    "name": "Saint Denis",
+    "stateName": "FR",
+    "countryName": "FR"
+  },
+  {
+    "id": 91,
+    "name": "Paris",
+    "stateName": "FR",
+    "countryName": "FR"
+  },
+  {
+    "id": 49,
+    "name": "Beverly Hills",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 9,
+    "name": "Bakersfield",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 33,
+    "name": "Detroit",
+    "stateName": "MI",
+    "countryName": "US"
+  },
+  {
+    "id": 37,
+    "name": "Porto",
+    "stateName": "PT",
+    "countryName": "PT"
+  },
+  {
+    "id": 88,
+    "name": "Slough",
+    "stateName": "EN",
+    "countryName": "UK"
+  },
+  {
+    "id": 59,
+    "name": "London",
+    "stateName": "EN",
+    "countryName": "UK"
+  },
+  {
+    "id": 61,
+    "name": "Birmingham",
+    "stateName": "EN",
+    "countryName": "UK"
+  },
+  {
+    "id": 63,
+    "name": "Berlin",
+    "stateName": "BER",
+    "countryName": "DE"
+  },
+  {
+    "id": 66,
+    "name": "Tokyo",
+    "stateName": "JP",
+    "countryName": "JP"
+  },
+  {
+    "id": 70,
+    "name": "Miami",
+    "stateName": "FL",
+    "countryName": "US"
+  },
+  {
+    "id": 82,
+    "name": "Bermuda",
+    "stateName": "BM",
+    "countryName": "BERM"
+  },
+  {
+    "id": 85,
+    "name": "Washington",
+    "stateName": "D.C.",
+    "countryName": "US"
+  },
+  {
+    "id": 43,
+    "name": "Lusail",
+    "stateName": "QA",
+    "countryName": "QA"
+  },
+  {
+    "id": 102,
+    "name": "Park City",
+    "stateName": "UT",
+    "countryName": "US"
+  },
+  {
+    "id": 38,
+    "name": "Lisbon",
+    "stateName": "PT",
+    "countryName": "PT"
+  },
+  {
+    "id": 7,
+    "name": "Oakland",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 44,
+    "name": "Trenton",
+    "stateName": "NJ",
+    "countryName": "US"
+  },
+  {
+    "id": 120,
+    "name": "Singapore",
+    "stateName": "SG",
+    "countryName": "SG"
+  },
+  {
+    "id": 94,
+    "name": "Frederick",
+    "stateName": "MD",
+    "countryName": "US"
+  },
+  {
+    "id": 113,
+    "name": "Hong Kong",
+    "stateName": "HK",
+    "countryName": "CN"
+  },
+  {
+    "id": 69,
+    "name": "Sakura",
+    "stateName": "JP",
+    "countryName": "JP"
+  },
+  {
+    "id": 87,
+    "name": "Miami Beach",
+    "stateName": "FL",
+    "countryName": "US"
+  },
+  {
+    "id": 111,
+    "name": "Sydney",
+    "stateName": "NSW",
+    "countryName": "AU"
+  },
+  {
+    "id": 115,
+    "name": "Rome",
+    "stateName": "RM",
+    "countryName": "IT"
+  },
+  {
+    "id": 117,
+    "name": "Madrid",
+    "stateName": "MD",
+    "countryName": "SP"
+  },
+  {
+    "id": 12,
+    "name": "Santa Clara",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 76,
+    "name": "Berkeley",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 77,
+    "name": "Alameda",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 74,
+    "name": "Clovis",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 75,
+    "name": "Piedmont",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 78,
+    "name": "East Rutherford",
+    "stateName": "NJ",
+    "countryName": "US"
+  },
+  {
+    "id": 79,
+    "name": "Inglewood",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 13,
+    "name": "Rutherford",
+    "stateName": "NJ",
+    "countryName": "US"
+  },
+  {
+    "id": 29,
+    "name": "Bronx",
+    "stateName": "NY",
+    "countryName": "US"
+  },
+  {
+    "id": 32,
+    "name": "Los Angeles",
+    "stateName": "CA",
+    "countryName": "US"
+  },
+  {
+    "id": 10,
+    "name": "Chicago",
+    "stateName": "IL",
+    "countryName": "US"
+  },
+  {
+    "id": 11,
+    "name": "Cleveland",
+    "stateName": "OH",
+    "countryName": "US"
+  },
+  {
+    "id": 14,
+    "name": "Kansas City",
+    "stateName": "MO",
+    "countryName": "US"
+  },
+  {
+    "id": 15,
+    "name": "New Orleans",
+    "stateName": "LA",
+    "countryName": "US"
+  },
+  {
+    "id": 16,
+    "name": "Nashville",
+    "stateName": "TN",
+    "countryName": "US"
+  },
+  {
+    "id": 35,
+    "name": "Las Vegas",
+    "stateName": "NV",
+    "countryName": "US"
+  },
+  {
+    "id": 36,
+    "name": "Rio de Janeiro",
+    "stateName": "RJ",
+    "countryName": "BR"
+  },
+  {
+    "id": 40,
+    "name": "Dallas",
+    "stateName": "TX",
+    "countryName": "US"
+  },
+  {
+    "id": 42,
+    "name": "Arlington",
+    "stateName": "TX",
+    "countryName": "US"
+  },
+  {
+    "id": 51,
+    "name": "Buenos Aires",
+    "stateName": "BA",
+    "countryName": "AR"
+  },
+  {
+    "id": 48,
+    "name": "Sao Paulo",
+    "stateName": "SP",
+    "countryName": "BR"
+  }
+]
